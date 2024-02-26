@@ -1,19 +1,7 @@
 # p9-Drawer-6i
 
-A new Flutter project created with FlutLab - https://flutlab.io
+![image](https://github.com/ValdezMich128/mydrawer_valdez/assets/143743936/29f3d579-dd1a-433b-ae7c-528182e19752)
+![image](https://github.com/ValdezMich128/mydrawer_valdez/assets/143743936/b6d21065-618c-45b3-853c-ff1e5b69b6fc)
+mi Drawer:
+https://appmaking.com/flutter-drawer-example/
 
-## Getting Started
-
-A few resources to get you started if this is your first Flutter project:
-
-- https://flutter.dev/docs/get-started/codelab
-- https://flutter.dev/docs/cookbook
-
-For help getting started with Flutter, view our
-https://flutter.dev/docs, which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-## Getting Started: FlutLab - Flutter Online IDE
-
-- How to use FlutLab? Please, view our https://flutlab.io/docs
-- Join the discussion and conversation on https://flutlab.io/residents
